@@ -22,6 +22,6 @@ Este projeto apresenta informações sobre a área de Segurança da Informação
 
 O objetivo do projeto é apresentar a importância da Segurança da Informação e desenvolver conhecimentos em desenvolvimento web, GitHub e organização de projetos.
 
-## 👨‍💻 Autor
+## Autor
 
 Fernando Rocha
